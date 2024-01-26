@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'evaluation.apps.EvaluationConfig',
     'corsheaders', 
+    'blogs.apps.BlogsConfig',
 
 ]
 
